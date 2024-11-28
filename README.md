@@ -20,5 +20,3 @@ I believe that learning is a continuous adventure, and I’m here for the journe
 🔗 Let's Connect!
 
 If you share an interest in data science and AI, or have any tips for a beginner like me, I’d love to connect! Thank you for visiting my GitHub, and I can’t wait to start adding projects to this space soon.
-
-This version highlights your readiness to learn and your excitement to get started, even though you’re new to GitHub. As you begin adding projects, you can easily update this README to showcase your work!
